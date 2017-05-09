@@ -1,0 +1,6 @@
+[package]
+name = "HPP_Kernel"
+version = "0.1.0"
+authors = ["HuuHoangNguyen <hoangnh.hpp@gmail.com>"]
+
+[dependencies]

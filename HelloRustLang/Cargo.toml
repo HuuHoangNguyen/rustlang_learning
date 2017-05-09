@@ -1,0 +1,5 @@
+[package]
+
+name = "Hello_RustLang"
+version ="0.0.1"
+authors = [ "HuuHoang Nguyen <hoangnh.hpp@gmail.com>" ]
